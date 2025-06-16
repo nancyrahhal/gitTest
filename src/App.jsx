@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>Hi meeeeeeeeeeeeee</h1>
+      <h1>Hi nancyyyyyyyyyyyyyyyyyyy</h1>
       <Nancy />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere natus
