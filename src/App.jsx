@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import Nancy from "./assets/Nancy/Nancy";
 import "./App.css";
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Hi thereeeeee</h1>
+      <Nancy />
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere natus
         quam, accusamus nemo tenetur impedit ullam qui nihil praesentium eaque
